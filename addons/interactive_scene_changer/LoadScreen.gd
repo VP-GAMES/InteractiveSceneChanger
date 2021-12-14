@@ -37,7 +37,6 @@ func _on_progress_changed(progress) -> void:
 	_progress_bar.value = progress
 
 func _on_load_done() -> void:
-	print("GO")
 	_button.show()
 
 func _on_button_pressed() -> void:

@@ -40,6 +40,7 @@ __meta__ = {
 }
 
 [node name="Button" type="Button" parent="ColorRect"]
+visible = false
 anchor_left = 0.75
 anchor_top = 0.54
 anchor_right = 0.95
