@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://addons/interactive_scene_changer_example/3d/SceneChangeExample.gd" type="Script" id=2]
+
+[node name="SceneFirst" type="Spatial"]
+script = ExtResource( 2 )
+to_scene = "res://addons/interactive_scene_changer_example/3d/SceneFirst.tscn"
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Button" type="Button" parent="CanvasLayer"]
+anchor_left = 0.05
+anchor_top = 0.47
+anchor_right = 0.95
+anchor_bottom = 0.53
+text = "Go to first scene"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Camera" type="Camera" parent="."]
+
+[node name="Duplicated" type="Spatial" parent="."]
