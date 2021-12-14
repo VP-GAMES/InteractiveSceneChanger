@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Sphere.glb-96f6b53a0ab9bec042d4e755f3c29d3e.scn"
+path="res://.import/Sphere.glb-97d41e1e7bd175748bad10aca1807972.scn"
 
 [deps]
 
-source_file="res://addons/interactive_scene_changer_example/3d/assets/Sphere.glb"
-dest_files=[ "res://.import/Sphere.glb-96f6b53a0ab9bec042d4e755f3c29d3e.scn" ]
+source_file="res://addons/interactive_scene_changer_example/assets/Sphere.glb"
+dest_files=[ "res://.import/Sphere.glb-97d41e1e7bd175748bad10aca1807972.scn" ]
 
 [params]
 

@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="InteractiveSceneChanger"
-run/main_scene="res://addons/interactive_scene_changer_example/3d/SceneSero.tscn"
+run/main_scene="res://addons/interactive_scene_changer_example/SceneSero.tscn"
 config/icon="res://icon.png"
 
 [autoload]

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Monkey.glb-415e306d7738b28e1cfd3f71ada6de5c.scn"
+path="res://.import/Monkey.glb-592bd669f005f9bcdce2be7783ade39c.scn"
 
 [deps]
 
-source_file="res://addons/interactive_scene_changer_example/3d/assets/Monkey.glb"
-dest_files=[ "res://.import/Monkey.glb-415e306d7738b28e1cfd3f71ada6de5c.scn" ]
+source_file="res://addons/interactive_scene_changer_example/assets/Monkey.glb"
+dest_files=[ "res://.import/Monkey.glb-592bd669f005f9bcdce2be7783ade39c.scn" ]
 
 [params]
 

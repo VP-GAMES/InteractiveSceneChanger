@@ -5,7 +5,7 @@ extends Node
 signal progress_changed(progress)
 signal load_done
 
-const _load_screen_path_const = "res://addons/interactive_scene_changer_example/LoadScreen.tscn"
+const _load_screen_path_const = "res://addons/interactive_scene_changer/LoadScreen.tscn"
 var _load_screen: PackedScene = preload(_load_screen_path_const)
 var _load_screen_path = _load_screen_path_const
 var _load_scene_resource: PackedScene
