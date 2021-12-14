@@ -5,7 +5,7 @@ extends Spatial
 
 export (String, FILE) var to_scene
 export (NodePath) var obj_path
-export (int, 0, 1000) var obj_count = 0
+export (int, 0, 100000) var obj_count = 0
 
 onready var _button: Button = $CanvasLayer/Button
 onready var _duplicated: Spatial = $Duplicated

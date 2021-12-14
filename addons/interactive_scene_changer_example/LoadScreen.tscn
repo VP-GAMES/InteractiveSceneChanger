@@ -9,6 +9,7 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
+with_load_button = false
 
 [node name="ColorRect" type="ColorRect" parent="."]
 anchor_right = 1.0
@@ -38,6 +39,13 @@ valign = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="Button" type="Button" parent="ColorRect"]
+anchor_left = 0.75
+anchor_top = 0.54
+anchor_right = 0.95
+anchor_bottom = 0.58
+text = "Next"
 
 [node name="Timer" type="Timer" parent="."]
 wait_time = 0.5

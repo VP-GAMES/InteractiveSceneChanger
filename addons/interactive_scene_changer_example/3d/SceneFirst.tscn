@@ -7,7 +7,7 @@
 script = ExtResource( 2 )
 to_scene = "res://addons/interactive_scene_changer_example/3d/SceneSecond.tscn"
 obj_path = NodePath("Sphere")
-obj_count = 999
+obj_count = 1999
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
@@ -2025,3 +2025,2003 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3.40095 )
 [node name="Sphere998" parent="Duplicated" instance=ExtResource( 1 )]
 
 [node name="Sphere999" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1000" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1001" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1002" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1003" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1004" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1005" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1006" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1007" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1008" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1009" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1010" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1011" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1012" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1013" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1014" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1015" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1016" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1017" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1018" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1019" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1020" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1021" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1022" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1023" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1024" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1025" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1026" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1027" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1028" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1029" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1030" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1031" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1032" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1033" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1034" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1035" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1036" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1037" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1038" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1039" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1040" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1041" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1042" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1043" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1044" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1045" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1046" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1047" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1048" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1049" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1050" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1051" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1052" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1053" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1054" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1055" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1056" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1057" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1058" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1059" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1060" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1061" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1062" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1063" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1064" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1065" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1066" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1067" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1068" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1069" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1070" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1071" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1072" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1073" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1074" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1075" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1076" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1077" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1078" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1079" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1080" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1081" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1082" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1083" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1084" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1085" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1086" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1087" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1088" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1089" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1090" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1091" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1092" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1093" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1094" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1095" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1096" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1097" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1098" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1099" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1100" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1101" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1102" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1103" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1104" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1105" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1106" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1107" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1108" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1109" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1110" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1111" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1112" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1113" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1114" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1115" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1116" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1117" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1118" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1119" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1120" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1121" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1122" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1123" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1124" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1125" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1126" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1127" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1128" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1129" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1130" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1131" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1132" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1133" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1134" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1135" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1136" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1137" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1138" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1139" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1140" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1141" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1142" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1143" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1144" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1145" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1146" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1147" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1148" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1149" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1150" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1151" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1152" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1153" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1154" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1155" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1156" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1157" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1158" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1159" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1160" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1161" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1162" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1163" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1164" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1165" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1166" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1167" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1168" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1169" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1170" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1171" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1172" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1173" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1174" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1175" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1176" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1177" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1178" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1179" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1180" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1181" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1182" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1183" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1184" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1185" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1186" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1187" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1188" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1189" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1190" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1191" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1192" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1193" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1194" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1195" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1196" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1197" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1198" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1199" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1200" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1201" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1202" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1203" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1204" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1205" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1206" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1207" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1208" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1209" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1210" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1211" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1212" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1213" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1214" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1215" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1216" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1217" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1218" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1219" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1220" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1221" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1222" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1223" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1224" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1225" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1226" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1227" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1228" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1229" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1230" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1231" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1232" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1233" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1234" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1235" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1236" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1237" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1238" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1239" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1240" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1241" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1242" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1243" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1244" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1245" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1246" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1247" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1248" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1249" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1250" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1251" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1252" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1253" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1254" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1255" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1256" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1257" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1258" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1259" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1260" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1261" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1262" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1263" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1264" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1265" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1266" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1267" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1268" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1269" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1270" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1271" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1272" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1273" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1274" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1275" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1276" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1277" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1278" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1279" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1280" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1281" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1282" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1283" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1284" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1285" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1286" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1287" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1288" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1289" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1290" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1291" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1292" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1293" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1294" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1295" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1296" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1297" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1298" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1299" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1300" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1301" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1302" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1303" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1304" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1305" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1306" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1307" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1308" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1309" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1310" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1311" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1312" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1313" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1314" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1315" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1316" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1317" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1318" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1319" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1320" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1321" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1322" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1323" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1324" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1325" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1326" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1327" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1328" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1329" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1330" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1331" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1332" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1333" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1334" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1335" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1336" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1337" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1338" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1339" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1340" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1341" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1342" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1343" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1344" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1345" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1346" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1347" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1348" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1349" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1350" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1351" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1352" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1353" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1354" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1355" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1356" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1357" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1358" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1359" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1360" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1361" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1362" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1363" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1364" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1365" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1366" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1367" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1368" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1369" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1370" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1371" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1372" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1373" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1374" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1375" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1376" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1377" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1378" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1379" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1380" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1381" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1382" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1383" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1384" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1385" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1386" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1387" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1388" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1389" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1390" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1391" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1392" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1393" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1394" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1395" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1396" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1397" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1398" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1399" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1400" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1401" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1402" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1403" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1404" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1405" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1406" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1407" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1408" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1409" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1410" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1411" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1412" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1413" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1414" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1415" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1416" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1417" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1418" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1419" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1420" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1421" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1422" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1423" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1424" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1425" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1426" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1427" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1428" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1429" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1430" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1431" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1432" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1433" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1434" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1435" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1436" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1437" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1438" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1439" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1440" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1441" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1442" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1443" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1444" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1445" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1446" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1447" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1448" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1449" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1450" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1451" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1452" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1453" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1454" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1455" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1456" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1457" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1458" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1459" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1460" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1461" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1462" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1463" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1464" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1465" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1466" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1467" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1468" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1469" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1470" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1471" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1472" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1473" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1474" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1475" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1476" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1477" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1478" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1479" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1480" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1481" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1482" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1483" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1484" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1485" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1486" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1487" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1488" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1489" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1490" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1491" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1492" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1493" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1494" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1495" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1496" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1497" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1498" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1499" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1500" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1501" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1502" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1503" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1504" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1505" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1506" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1507" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1508" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1509" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1510" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1511" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1512" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1513" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1514" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1515" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1516" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1517" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1518" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1519" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1520" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1521" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1522" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1523" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1524" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1525" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1526" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1527" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1528" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1529" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1530" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1531" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1532" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1533" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1534" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1535" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1536" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1537" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1538" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1539" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1540" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1541" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1542" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1543" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1544" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1545" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1546" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1547" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1548" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1549" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1550" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1551" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1552" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1553" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1554" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1555" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1556" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1557" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1558" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1559" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1560" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1561" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1562" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1563" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1564" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1565" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1566" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1567" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1568" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1569" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1570" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1571" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1572" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1573" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1574" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1575" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1576" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1577" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1578" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1579" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1580" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1581" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1582" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1583" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1584" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1585" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1586" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1587" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1588" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1589" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1590" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1591" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1592" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1593" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1594" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1595" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1596" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1597" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1598" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1599" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1600" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1601" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1602" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1603" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1604" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1605" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1606" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1607" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1608" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1609" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1610" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1611" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1612" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1613" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1614" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1615" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1616" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1617" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1618" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1619" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1620" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1621" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1622" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1623" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1624" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1625" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1626" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1627" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1628" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1629" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1630" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1631" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1632" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1633" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1634" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1635" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1636" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1637" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1638" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1639" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1640" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1641" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1642" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1643" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1644" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1645" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1646" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1647" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1648" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1649" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1650" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1651" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1652" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1653" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1654" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1655" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1656" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1657" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1658" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1659" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1660" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1661" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1662" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1663" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1664" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1665" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1666" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1667" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1668" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1669" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1670" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1671" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1672" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1673" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1674" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1675" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1676" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1677" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1678" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1679" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1680" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1681" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1682" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1683" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1684" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1685" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1686" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1687" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1688" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1689" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1690" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1691" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1692" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1693" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1694" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1695" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1696" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1697" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1698" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1699" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1700" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1701" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1702" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1703" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1704" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1705" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1706" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1707" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1708" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1709" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1710" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1711" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1712" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1713" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1714" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1715" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1716" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1717" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1718" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1719" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1720" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1721" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1722" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1723" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1724" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1725" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1726" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1727" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1728" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1729" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1730" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1731" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1732" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1733" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1734" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1735" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1736" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1737" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1738" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1739" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1740" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1741" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1742" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1743" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1744" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1745" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1746" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1747" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1748" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1749" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1750" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1751" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1752" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1753" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1754" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1755" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1756" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1757" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1758" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1759" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1760" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1761" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1762" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1763" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1764" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1765" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1766" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1767" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1768" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1769" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1770" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1771" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1772" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1773" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1774" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1775" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1776" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1777" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1778" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1779" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1780" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1781" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1782" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1783" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1784" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1785" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1786" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1787" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1788" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1789" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1790" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1791" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1792" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1793" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1794" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1795" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1796" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1797" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1798" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1799" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1800" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1801" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1802" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1803" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1804" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1805" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1806" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1807" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1808" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1809" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1810" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1811" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1812" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1813" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1814" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1815" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1816" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1817" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1818" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1819" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1820" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1821" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1822" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1823" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1824" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1825" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1826" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1827" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1828" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1829" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1830" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1831" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1832" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1833" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1834" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1835" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1836" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1837" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1838" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1839" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1840" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1841" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1842" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1843" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1844" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1845" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1846" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1847" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1848" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1849" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1850" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1851" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1852" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1853" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1854" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1855" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1856" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1857" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1858" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1859" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1860" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1861" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1862" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1863" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1864" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1865" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1866" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1867" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1868" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1869" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1870" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1871" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1872" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1873" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1874" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1875" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1876" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1877" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1878" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1879" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1880" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1881" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1882" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1883" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1884" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1885" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1886" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1887" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1888" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1889" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1890" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1891" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1892" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1893" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1894" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1895" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1896" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1897" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1898" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1899" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1900" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1901" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1902" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1903" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1904" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1905" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1906" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1907" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1908" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1909" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1910" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1911" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1912" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1913" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1914" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1915" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1916" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1917" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1918" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1919" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1920" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1921" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1922" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1923" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1924" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1925" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1926" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1927" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1928" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1929" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1930" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1931" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1932" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1933" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1934" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1935" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1936" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1937" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1938" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1939" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1940" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1941" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1942" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1943" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1944" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1945" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1946" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1947" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1948" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1949" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1950" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1951" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1952" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1953" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1954" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1955" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1956" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1957" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1958" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1959" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1960" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1961" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1962" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1963" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1964" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1965" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1966" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1967" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1968" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1969" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1970" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1971" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1972" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1973" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1974" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1975" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1976" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1977" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1978" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1979" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1980" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1981" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1982" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1983" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1984" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1985" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1986" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1987" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1988" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1989" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1990" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1991" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1992" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1993" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1994" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1995" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1996" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1997" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1998" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
+
+[node name="Sphere1999" type="Spatial" parent="Duplicated" instance=ExtResource( 1 )]
