@@ -7,7 +7,7 @@ The following screenshots show the working areas of the plugin:
 
 ### Images
 Transition scene immediately
-![Transition immediately](https://raw.githubusercontent.com/VP-GAMES/LocalizationEditor/main/.github/images/load.png)
+![Transition immediately](https://github.com/VP-GAMES/InteractiveSceneChanger/blob/main/.github/images/load.png)
 
 Transition scene with load button
-![Transition with load button](https://raw.githubusercontent.com/VP-GAMES/LocalizationEditor/main/.github/images/loadbutton.png)
+![Transition with load button](https://github.com/VP-GAMES/InteractiveSceneChanger/blob/main/.github/images/loadbutton.png)
